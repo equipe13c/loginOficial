@@ -1,0 +1,94 @@
+fieldset{
+    width:220px;
+    margin-left:400px;
+    line-height:20pt;
+    float:left;
+    height:175px;
+}
+#cadfield{
+    width:480px;
+    margin-left:40px;
+    line-height:20pt;
+    float:left;
+    height:255px;
+    display:block;
+}
+h3{
+    font-family: cursive;
+    font-size:14pt;
+    margin-left:550px; 
+}
+h1{
+    font-family: cursive;
+    font-size:14pt;
+    margin-left:10px;  
+}
+h1#h1Cadastro{
+     margin-left:35px;  
+}
+#btnLogar{
+    margin-left:85px;
+    margin-top:20px;
+}
+label{
+
+}
+.txts{
+    float:right;
+}
+a{
+    font-color:black;
+}
+#btnCadastrar{
+    float:left;
+}
+.quadro{
+    width:240px;
+    height:20px;
+    float:left;
+    margin-top:5px;
+}
+#quadroCad{
+    margin-left:15px;
+}
+.sucesso{
+    color:green;
+    float:left;
+    margin-left:0px;
+    margin-top:0px;
+}
+.fail{
+    color:red;
+    float:left;
+    margin-left:0px;
+    margin-top:0px;
+}
+#txtBox{
+    width:160px;
+    height:130px;
+    float:left;
+    margin-left:140px;
+    margin-right:30px;
+    display:block;
+    margin-top:-125px;
+}
+#frmAlterarDados{
+    width:390px;
+    margin-left:400px;
+    line-height:20pt;
+    float:left;
+    height:170px;
+}
+.txtsAlterarDados{
+    float:right;
+}
+#buttonAlterar{
+    margin-left:130px;
+    margin-top:15px;
+}
+
+#conteudo_artigo{
+    height: 200px;
+    width: 100px;
+    
+}
